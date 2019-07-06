@@ -7,6 +7,7 @@ Main tasks:
 
 Compile command:
 g++ -DDEBUG -std=c++11 -o queueScripts.o queueScripts.cpp queueScripts.h
+g++ -std=c++11 -o queueScripts-HCMAC.o queueScripts-HCMAC.cpp queueScripts-HCMAC.h
 
 Using C++ standard 11
 
